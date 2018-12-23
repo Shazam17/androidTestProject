@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "284462658495",
+    "firebase_url": "https://tusur-9afb1.firebaseio.com",
+    "project_id": "tusur-9afb1",
+    "storage_bucket": "tusur-9afb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284462658495:android:394d4c648689842e",
+        "android_client_info": {
+          "package_name": "com.example.stkau.tsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284462658495-3j7f8s6s8790h4593v0nm930k7jdt84u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmdHyvS0i59OmAWRz-F1oWOTQW2Akajk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
